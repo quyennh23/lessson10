@@ -3,3 +3,4 @@ Dong2 file 2
 L3,f2,ft1
 l4,f2,ft1
 l5,f2,ft2
+l6,f2,ft2
